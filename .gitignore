@@ -8,4 +8,6 @@
 ehthumbs.db
 Thumbs.db
 
+# Ignore build file from CI that gets added
+build
 
